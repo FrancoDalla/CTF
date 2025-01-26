@@ -1,4 +1,4 @@
 # CTF
-Writeups de ctf en los que participe 
+Writeups de ejercicios que resolvi de ctfs
 
 :)
